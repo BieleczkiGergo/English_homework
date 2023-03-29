@@ -29,8 +29,6 @@ footer{
     bottom: 0px;
     width: 100%;
     
-    border-top: 2px solid cyan;
-    
 }
 
 #next{
@@ -150,5 +148,13 @@ footer{
 
 .wrong{
     background-color: rgba(133, 9, 9, 0.5);
+
+}
+
+@media screen and (min-width: 1024px) {
+    #task{
+        font-size: 200%;
+        
+    }
     
 }
