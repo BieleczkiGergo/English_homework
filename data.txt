@@ -1,0 +1,53 @@
+iron-vas
+putter-putter
+golf ball-golflabda
+bat-ütő
+hockey stick-hokiütő
+chess-sakk
+motocross-cross motorozás
+referee-játékvezető (pl: kosárlabda, baseball, hoki, stb...)
+run-futam
+tennis-tenisz
+table tennis-ping pong
+water polo-vízilabda
+field-pálya
+final-döntő
+tournament-bajnokság
+marathon-maraton
+race-verseny
+Olympics-Olimpiai játékok
+boxing glove-boxkesztyű
+swimming pool-úszómedence
+pass-passzol
+net-háló
+surf-szörf
+basket-kosár
+basketball-kosárlabda
+wrestling-bírkózás
+bleed-vérzés
+break-törés
+bruise-zúzódás
+burn-égés
+cut-vágás
+dislocate-kificamít
+sprain-ficam
+tear-izomszakadás
+running track-futópálya
+tennis racket-teniszütő
+golf club-golfütő
+board-palánk
+googles-úszószemüveg
+gym mat-tornaszőnyeg
+helmet-bukósisak
+kit-felszerelés
+pad-lábszárvédő
+paddle-evező
+pole-rúd
+sail-vitorla
+swimming cap-úszósapka
+coach-edző
+fencing-vívás
+team captain-csapatkapitány
+umpire-játékvezető (pl: foci, krikett, boxing, stb...)
+goalkeeper-kapus
+draw-döntetlen
